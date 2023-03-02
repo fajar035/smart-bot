@@ -1,0 +1,14 @@
+2023/03/02-14:33:39.761 4234 Reusing MANIFEST C:\Users\Fajar Pratama\Data\Project\Web\Next-js\smart-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/02-14:33:39.762 4234 Recovering log #18
+2023/03/02-14:33:39.782 4234 Reusing old log C:\Users\Fajar Pratama\Data\Project\Web\Next-js\smart-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000018.log 
+2023/03/02-15:00:52.362 3530 Level-0 table #24: started
+2023/03/02-15:00:52.393 3530 Level-0 table #24: 1284481 bytes OK
+2023/03/02-15:00:52.395 3530 Delete type=0 #18
+2023/03/02-15:00:53.232 3530 Compacting 1@1 + 2@2 files
+2023/03/02-15:00:53.307 3530 Generated table #25@1: 44874 keys, 2216410 bytes
+2023/03/02-15:00:53.322 3530 Generated table #26@1: 11112 keys, 239936 bytes
+2023/03/02-15:00:53.322 3530 Compacted 1@1 + 2@2 files => 2456346 bytes
+2023/03/02-15:00:53.323 3530 compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/03/02-15:00:53.323 3530 Delete type=2 #20
+2023/03/02-15:00:53.323 3530 Delete type=2 #21
+2023/03/02-15:00:53.323 3530 Delete type=2 #24
